@@ -139,7 +139,7 @@ header img {
   width: 13px;
   height: 8px;
   margin-left: 10px;
-  background-image: url("/beatcoin/assets/icono/down.svg");
+  background-image: url("./assets/icono/down.svg");
   background-color: var(--off-white);
   border-radius: 50%;
 }
@@ -170,7 +170,7 @@ main {
   height: 200px;
   margin: 0 auto;
   margin-bottom: 50px;
-  background-image: url("/beatcoin/assets/img/Bitcoin.svg");
+  background-image: url("./assets/img/Bitcoin.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -275,7 +275,7 @@ main {
   width: 15px;
   height: 15px;
   margin-left: 10px;
-  background-image: url("/beatcoin/assets/icono/trending-down.svg");
+  background-image: url("./assets/icono/trending-down.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -288,7 +288,7 @@ main {
   width: 15px;
   height: 15px;
   margin-left: 10px;
-  background-image: url("/beatcoin/assets/icono/trending-up.svg");
+  background-image: url("./assets/icono/trending-up.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
