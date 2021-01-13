@@ -140,6 +140,8 @@ header img {
   height: 8px;
   margin-left: 10px;
   background-image: url("/beatcoin/assets/icono/down.svg");
+  background-color: var(--off-white);
+  border-radius: 50%;
 }
 
 main {
@@ -277,6 +279,8 @@ main {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: var(--off-white);
+  border-radius: 50%;
 }
 
 .currency-table--container .up {
@@ -288,6 +292,8 @@ main {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: var(--off-white);
+  border-radius: 50%;
 }
 
 .currency-table--date {
